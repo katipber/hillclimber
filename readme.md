@@ -10,7 +10,7 @@ and the search graph (partially, since the graph has more than 3 dimensions).
 * A Jupyter notebook to demonstrate how to use the packages.
 * Sample log and model files.
 
-### [GymClimber ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/katipber/hillclimber/GymClimber.ipynb)
+### [GymClimber ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/katipber/hillclimber/blob/master/GymClimber.ipynb)
 
 ## Tech / Frameworks
 * OpenAI Gym
